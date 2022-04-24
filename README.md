@@ -1,7 +1,7 @@
 Hi 👋 My name is Omoghomion Oredia
 ==================================
 
-Test Engineer
+Software Test Engineer
 -------------
 
 *   🌍  I'm based in Finland
