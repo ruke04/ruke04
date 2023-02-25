@@ -4,7 +4,6 @@ Hi 👋 My name is Omoghomion Oredia
 Software Test Engineer
 -------------
 
-*   🌍  I'm based in Finland
 *   ✉️  You can contact me at [rukeoredia@gmail.com](mailto:rukeoredia@gmail.com)
 
 ### Skills
