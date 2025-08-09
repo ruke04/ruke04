@@ -23,14 +23,28 @@ Software Test Engineer
 ☁️ Cloud Testing – Hands-on experience testing in AWS environments, including S3, EC2, and networking components.
 🤝 Team Collaboration – Contributed to cross-functional projects with developers, product managers, and designers.
 
-###  Certifications & Badges
+###  Certifications
+API Security Fundamentals, APIsec University — Jul 2023
 
-<p align="left">
-  <img src="URL_FOR_APISEC_BADGE" alt="API Security Fundamentals Badge" width="80" />
-  <img src="URL_FOR_MICROSOFT_BADGE" alt="Microsoft Security, Compliance & Identity Badge" width="80" />
-  <img src="URL_FOR_AWS_BADGE" alt="AWS Certified Cloud Practitioner Badge" width="80" />
-  <img src="URL_FOR_ISC2_CC_BADGE" alt="ISC² Certified in Cybersecurity Badge" width="80" />
-</p>
+Microsoft Certified: Security, Compliance, and Identity Fundamentals, Microsoft — Nov 2022
+
+Microsoft Certified: Azure Fundamentals, Microsoft — Nov 2022
+
+Certified in Cybersecurity (CC), (ISC)² — Oct 2022
+
+NSE 1 Network Security Associate, Fortinet — Sep 2022
+
+Cloud and Virtualization Concepts, VMware IT Academy — Jan 2022
+
+AWS Certified Cloud Practitioner, Amazon Web Services — Dec 2021
+
+Enterprise Design Thinking Practitioner, IBM — Aug 2021
+
+Aviatrix Certified Engineer – Multi-Cloud Network Associate, Aviatrix — Jun 2021
+
+IT Information Library (ITIL) Foundations, AXELOS — Jan 2021
+
+Verified International Academic Qualifications, World Education Services — Feb 2021
 
 
 ### Tools & Technologies
