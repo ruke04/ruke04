@@ -23,8 +23,15 @@ Software Test Engineer
 ☁️ Cloud Testing – Hands-on experience testing in AWS environments, including S3, EC2, and networking components.
 🤝 Team Collaboration – Contributed to cross-functional projects with developers, product managers, and designers.
 
-### Certifications & Badges
-<p align="left"> <img src="URL_FOR_APISEC_BADGE" alt="API Security Fundamentals Badge" width="80" /> <img src="URL_FOR_MICROSOFT_BADGE" alt="Microsoft Security, Compliance & Identity Badge" width="80" /> <img src="URL_FOR_AWS_BADGE" alt="AWS Certified Cloud Practitioner Badge" width="80" /> <img src="URL_FOR_ISC2_CC_BADGE" alt="ISC² Certified in Cybersecurity Badge" width="80" /> </p>
+###  Certifications & Badges
+
+<p align="left">
+  <img src="URL_FOR_APISEC_BADGE" alt="API Security Fundamentals Badge" width="80" />
+  <img src="URL_FOR_MICROSOFT_BADGE" alt="Microsoft Security, Compliance & Identity Badge" width="80" />
+  <img src="URL_FOR_AWS_BADGE" alt="AWS Certified Cloud Practitioner Badge" width="80" />
+  <img src="URL_FOR_ISC2_CC_BADGE" alt="ISC² Certified in Cybersecurity Badge" width="80" />
+</p>
+
 
 ### Tools & Technologies
 Languages: Python, SQL • Testing: Robot Framework, Selenium, Pytest
