@@ -23,5 +23,10 @@ Software Test Engineer
 ☁️ Cloud Testing – Hands-on experience testing in AWS environments, including S3, EC2, and networking components.
 🤝 Team Collaboration – Contributed to cross-functional projects with developers, product managers, and designers.
 
+### Certifications & Badges
+<p align="left"> <img src="URL_FOR_APISEC_BADGE" alt="API Security Fundamentals Badge" width="80" /> <img src="URL_FOR_MICROSOFT_BADGE" alt="Microsoft Security, Compliance & Identity Badge" width="80" /> <img src="URL_FOR_AWS_BADGE" alt="AWS Certified Cloud Practitioner Badge" width="80" /> <img src="URL_FOR_ISC2_CC_BADGE" alt="ISC² Certified in Cybersecurity Badge" width="80" /> </p>
 
-<a href="https://github.com/ruke04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruke04&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Tools & Technologies
+Languages: Python, SQL • Testing: Robot Framework, Selenium, Pytest
+Cloud: AWS (S3, EC2, IAM) • DevOps: Git, Jenkins, Docker, CI/CD
+
