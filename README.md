@@ -19,8 +19,11 @@ Software Test Engineer
 
 ### Featured Work & Contributions
 🚀 Automation Testing Frameworks – Designed and implemented scalable automated test suites using Python and Robot Framework.
+
 📊 Data Validation & Analysis – Built Python scripts to process and validate large datasets for QA workflows.
+
 ☁️ Cloud Testing – Hands-on experience testing in AWS environments, including S3, EC2, and networking components.
+
 🤝 Team Collaboration – Contributed to cross-functional projects with developers, product managers, and designers.
 
 ###  Certifications
